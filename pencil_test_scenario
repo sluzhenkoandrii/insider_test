@@ -1,0 +1,57 @@
+Functional Testing
+1. Verify the pencil can write smoothly on standard paper.
+
+2. Verify the pencil leaves a consistent and visible mark.
+
+3. Verify the eraser can erase pencil marks effectively.
+
+4. Verify that writing with the pencil does not cause the lead to break under normal pressure.
+
+5. Verify that the eraser does not damage the paper when used properly.
+
+Usability Testing
+1. Verify the pencil is comfortable to hold for different hand sizes.
+
+2. Verify that the pencil’s weight feels balanced and appropriate.
+
+3. Verify the eraser is easy to use without excessive force.
+
+4. Verify the pencil design (e.g., shape, texture) prevents slipping during use.
+
+Performance Testing
+1. Measure how many pages the pencil can write on before becoming too short to use.
+
+2. Measure how many erasures the eraser can perform before wearing down completely.
+
+3. Check how the writing quality changes as the pencil becomes dull.
+
+Load Testing
+1. Test writing continuously for a long period to check if the pencil maintains performance.
+
+2. Test continuous erasing for a long period to assess the durability of the eraser.
+
+Stress Testing
+1. Apply excessive pressure to see at what point the pencil lead breaks.
+
+2. Use the eraser aggressively to see how much force it can handle before detaching or crumbling.
+
+3. Drop the pencil from different heights to verify if it survives impact without breaking.
+
+Security Testing
+1. Verify the pencil is non-toxic and safe for use (materials safety).
+
+2. Verify the pencil does not have sharp edges that could injure the user.
+
+3. Verify the eraser is securely attached and cannot be easily swallowed by small children.
+
+Compatibility Testing
+1. Test writing on different types of surfaces (standard paper, recycled paper, cardboard).
+
+2. Test erasing marks from different surfaces to check effectiveness.
+
+Environmental Testing
+1. Test the pencil in different temperatures (cold, hot) to check for material degradation.
+
+2. Test how humidity affects writing or erasing quality.
+
+3. Test exposure to water (light rain) to check if materials are resistant.
