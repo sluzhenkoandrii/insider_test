@@ -1,0 +1,78 @@
+1. Types of recommendations on the main page:
+   - "Öne Çıkan Ürünler" (Featured Products)
+   - "Çok Satanlar" (Best Sellers)
+   - "Yeni Gelenler" (New Arrivals)
+   - "Fırsat Ürünleri" (Deal Products)
+   - "Sizin İçin Seçtiklerimiz" (Selected for You)
+   - "İlginizi Çekebilir" (You Might Be Interested In)
+
+2. Recommendation algorithms:
+   - Collaborative Filtering:
+     - Analysis of user behavior with similar purchases
+     - "Bought Together" recommendations
+     - "Similar users also bought"
+
+   - Content-based Filtering:
+     - Recommendations based on product category
+     - Recommendations based on brand
+     - Recommendations based on price range
+
+   - Behavioral Filtering:
+     - Viewed products
+     - Cart items
+     - Previous purchases
+     - Time spent on product page
+
+3. Factors influencing recommendations:
+   - Product popularity (sales volume)
+   - Ratings and reviews
+   - Stock availability
+   - Recency (new arrivals)
+   - Seasonality
+   - Price category
+   - User geolocation
+
+4. Display features on different pages:
+   - Main Page:
+     - General recommendations
+     - Popular categories
+     - Special offers
+
+   - Product page:
+     - Similar products
+     - 'Frequently bought together'
+     - Products from the same category
+     - Products from the same brand
+
+   - Cart:
+     - Additional items to already selected ones
+     - Discounted products
+     - 'You might be also interested in'
+
+5. Business logic:
+   - Conversion rate improvement
+   - Average order value increase
+   - User retention improvement
+   - Sales optimization
+   - Inventory management
+
+6. Business optimization:
+   - Product rotation
+   - New product promotion
+   - Clearance sales
+   - Low-popularity product sales boost
+   - Strategic product placement
+
+This is a comprehensive system that combines:
+- Big data analysis
+- Machine learning
+- Behavioral psychology
+- Business analytics
+- Technical optimization
+
+The system is constantly improved based on:
+- Performance analysis
+- User feedback
+- Changes in buyer behavior
+- New technological capabilities
+- Business needs
